@@ -5,8 +5,8 @@ FULL STACK DEVELPOMENT INTERNSHIP EDUREKA
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Nikhil-red)]
 [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)](https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)]
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nikhil-yellow)]
-[![Website Badge](https://img.shields.io/badge/Twitter-Nikhil-yellow)](https://twitter.com/143Smier?s=09)
-[![Website Badge](https://img.shields.io/badge/Instagram-Nikhil-yellow)(https://www.instagram.com/fake_smiler_52/)
+[![Website Badge](https://img.shields.io/badge/twitter-Nikhil-yellow)]
+[![Website Badge](https://img.shields.io/badge/instagram-Nikhil-yellow)]
 
 A competent, skilled, dedicated, hardworking, experienced, creative, unique WEB DEVELOPER. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
  A Enthusiastic wed devloper egar to contribute to team success through hard work, dicipline and attention and excellent organization skills. Tranning myself to be better at java script and problem sloving .Motivated to learn ang Grow and pass your knowledge to others.
