@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
-Hi, I'm Govindu Chaitanya Krishna, a passionate Full-Stack developer and a technical enthusiast.
+Hi, I'm Nihkil kurmi, a passionate Full-Stack developer and a technical enthusiast.
 
 The depths of technology are huge and gigantic but extremely marvelous, spreading its wings all across the world. Learning technologies, developing, and designing makes me feel my job overwhelming. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in ux), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Nosql).
 
