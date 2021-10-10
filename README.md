@@ -3,7 +3,7 @@ Hello, I'm NIKHIL KURMI 👋
 FULL STACK DEVELPOMENT INTERNSHIP EDUREKA
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Nikhil-red)]
-[![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)](https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)](https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nikhil-yellow)]
 [![Website Badge](https://img.shields.io/badge/twitter-Nikhil-yellow)]
 [![Website Badge](https://img.shields.io/badge/instagram-Nikhil-yellow)]
