@@ -3,9 +3,9 @@ Hello, I'm NIKHIL KURMI 👋
 FULL STACK DEVELPOMENT INTERNSHIP EDUREKA
 
 [![YouTube Badge]
-[![Linkedin Badge]
-[![Website Badge](https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)
+[![Website Badge]
+[![Website Badge](https://img.shields.io/badge/StackOverflow-NIKHIL-yellow)]
 A competent, skilled, dedicated, hardworking, experienced, creative, unique WEB DEVELOPER. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
  A Enthusiastic wed devloper egar to contribute to team success through hard work, dicipline and attention and excellent organization skills. Tranning myself to be better at java script and problem sloving .Motivated to learn ang Grow and pass your knowledge to others.
  A Enthusiastic wed devloper egar to contribute to team success through hard work, dicipline and attention and excellent organization skills. Tranning myself to be better at java script and problem sloving .Motivated to learn and Grow and pass your knowledge to others.
