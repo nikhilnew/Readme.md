@@ -1,8 +1,8 @@
-Hello Developers, I'm NIKHIL 👋
+Hello developers, I'm NIKHIL 👋
 
 FULL STACK DEVELPOMENT INTERNSHIP EDUREKA
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Nikhil-red)]
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Nikhil-red)](https://www.youtube.com/channel/UCUTJ19vgPb5GSlvB6ePD0xw)
 [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)](https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nikhil-yellow)]
 [![Website Badge](https://img.shields.io/badge/twitter-Nikhil-blue)](https://twitter.com/143Smier?s=09)
